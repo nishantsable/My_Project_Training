@@ -17,6 +17,6 @@ public class pah {
         for (int i=0; i<ar.length; i++)
           System.out.println(ar[i]); //jjj
         
-        // i am trainer
+        // i am trainer    frffedfedf
     }
 }
