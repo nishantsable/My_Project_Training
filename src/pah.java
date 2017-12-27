@@ -18,5 +18,6 @@ public class pah {
           System.out.println(ar[i]); //jjj
         
         // i am  wdswd
+        // fcwdwsd
     }
 }
