@@ -17,11 +17,7 @@ public class pah {
         for (int i=0; i<ar.length; i++)
           System.out.println(ar[i]); //jjj
         
-<<<<<<< HEAD
         // i am  wdswd
         // fcwdwsd
-=======
-        // i am trainer    frffedfedf
->>>>>>> branch 'master' of https://github.com/nishantsable/My_Project_Training.git
     }
 }
